@@ -1,3 +1,7 @@
+### Links
+
+- Live Site URL: ![Github live](https://teoh4770.github.io/Testimonials-Grid-Section/)
+
 # Frontend Mentor - Testimonials Grid Section
 
 ![Design preview for the Testimonials Grid Section](./design/desktop-preview.jpg)
@@ -11,7 +15,6 @@ This is a solution to the [Testimonials Grid Section](https://www.frontendmentor
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -33,9 +36,6 @@ Users should be able to:
 ![desktop view](https://user-images.githubusercontent.com/98545971/217621672-faea3954-1197-4f44-ac9d-c5973f1fbd8e.png)
 ![mobile view](https://user-images.githubusercontent.com/98545971/217621988-e51e4ae8-c724-4b63-893a-ee06856f24a0.png)
 
-### Links
-
-- Live Site URL: ![Github live](https://teoh4770.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
