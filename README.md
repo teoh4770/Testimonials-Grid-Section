@@ -1,7 +1,3 @@
-### Links
-
-- Live Site URL: ![Github live](https://teoh4770.github.io/Testimonials-Grid-Section/)
-
 # Frontend Mentor - Testimonials Grid Section
 
 ![Design preview for the Testimonials Grid Section](./design/desktop-preview.jpg)
