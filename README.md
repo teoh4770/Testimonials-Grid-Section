@@ -35,8 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github solution](https://github.com/teoh4770/pricing-component-with-toggle)
-- Live Site URL: [Github live](https://teoh4770.github.io/pricing-component-with-toggle/)
+- Live Site URL: ![Github live](https://teoh4770.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
